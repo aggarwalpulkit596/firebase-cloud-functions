@@ -1,4 +1,4 @@
-# Periodically delete unused accounts
+# Periodically update accounts
 
 This sample demonstrates how to update a specific property of all user in the database
 
